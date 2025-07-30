@@ -1,0 +1,1 @@
+console.log("KYAN App 啟動了！");
